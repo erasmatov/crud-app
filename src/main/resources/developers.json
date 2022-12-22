@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "firstName": "Мария",
+    "lastName": "Мудунова",
+    "skills": [
+      {
+        "id": 1,
+        "name": "Ответственный",
+        "status": "ACTIVE"
+      },
+      {
+        "id": 3,
+        "name": "Внимательный",
+        "status": "ACTIVE"
+      },
+      {
+        "id": 4,
+        "name": "Активный",
+        "status": "ACTIVE"
+      }
+    ],
+    "specialty": {
+      "id": 1,
+      "name": "Менеджер",
+      "status": "ACTIVE"
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": 2,
+    "firstName": "Никита",
+    "lastName": "Фролов",
+    "skills": [
+      {
+        "id": 1,
+        "name": "Ответственный",
+        "status": "ACTIVE"
+      }
+    ],
+    "specialty": {
+      "id": 3,
+      "name": "Инженер",
+      "status": "ACTIVE"
+    },
+    "status": "ACTIVE"
+  }
+]

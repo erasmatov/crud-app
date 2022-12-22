@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Менеджер",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 2,
+    "name": "Ассистент",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 3,
+    "name": "Инженер",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 4,
+    "name": "Программист",
+    "status": "ACTIVE"
+  }
+]
